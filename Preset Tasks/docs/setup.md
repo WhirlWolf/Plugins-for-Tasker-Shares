@@ -2,7 +2,7 @@
 
 ## Installing
 
-1. [Import the project from Taskernet](https://)
+1. [Import the project from Taskernet](https://taskernet.com/shares/?user=AS35m8m8L9YzBV3qbzaAAqHiSYXYBbD3QfZ7hr0hRK4ojOFTCrjWh2CScbjMw4NaudRi1zKKzq85&id=Project%3APreset+Tasks+%28Plugin%29)
 3. Open the plugin by running the **Plugin - Preset Tasks** task.
 
 ## Updating
