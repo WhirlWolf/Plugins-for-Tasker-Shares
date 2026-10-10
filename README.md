@@ -8,13 +8,13 @@ Each plugin is self-contained.
 
 | Plugin | What it does |
 |---|---|
-| [Preset Tasks](Preset-Tasks/) | Build, organize and share reusable task presets: name, priority, parameters, pass variables and return value. Includes search, bulk actions, and JSON export/import. |
+| [Preset Tasks](Preset%20Tasks/) | Build, organize and share reusable task presets: name, priority, parameters, pass variables and return value. Includes search, bulk actions, and JSON export/import. |
 
 More will be added over time.
 
 ## Disclaimer
 
-These are personal Tasker projects shared as-is. They are not affiliated with or endorsed by Tasker or its developer.
+These projects are shared as-is. They are not affiliated with or endorsed by Tasker or its developer.
 
 ## Privacy
 
