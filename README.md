@@ -1,6 +1,6 @@
 # Plugins-for-Tasker-Shares
 
-Ready-to-import **Tasker** projects, tasks and profiles. Import one, and use it in your own projects or share it with others.
+Ready-to-import **Tasker** projects, tasks and profiles.
 
 Each plugin is self-contained.
 
